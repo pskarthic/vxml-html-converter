@@ -1,0 +1,2 @@
+VXML is a markup language that enables creating dialogues to collect data from users or guide a user through an entire system.
+In this project we are going to develop a tool that converts a VXML file to html file so we can visualize the forms, menus and other components in the VXML file.
